@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tahaqutbuddin](https://github.com/tahaqutbuddin)
 
-- 💬 Ask me about **Terraform, AWS, PHP**
+- 💬 Ask me about **Terraform, AWS, Azure DevOps, Jenkins, Docker, PHP, Databases, API integrations, OpenAI**
 
 <h2 id="user-content--devops" dir="auto"><a class="heading-link" href="#-devops">DevOps & Cloud:</a></h2>
  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>  
